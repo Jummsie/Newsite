@@ -1,5 +1,5 @@
 import React from 'react'
-import './about.css'
+import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import eso from '../../assets/eso.png'
 
