@@ -1,0 +1,17 @@
+<svg width="200" height="100" viewBox="0 0 200 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient Background Shape -->
+  <defs>
+    <linearGradient id="backgroundGradient" x1="0" y1="0" x2="200" y2="100" gradientUnits="userSpaceOnUse">
+      <!-- <stop stop-color="#DF8908"/>
+      <stop offset="1" stop-color="#B415FF"/> -->
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Shape -->
+  <rect x="10" y="10" width="180" height="80" rx="15" fill="url(#backgroundGradient)"/>
+
+  <!-- Text Element -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="30">
+    Eso Dike
+  </text>
+</svg>
